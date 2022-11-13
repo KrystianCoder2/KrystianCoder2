@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KrystianCoder2
 - 👀 I’m interested Programming, and game development.
-- 🌱 I’m currently learning Rust!
-- 💞️ I’m looking to collaborate on Twitter or instagram!
-- 📫 You can reach me by my instagram ( @coder.cpp.rust.java ), twitter ( @Coder_Cpp_Java ) or Discord( @Coder23#1612 )
+- 🌱 I’m currently learning Rust
 
 - I'll try to post on this account a lot of coding projects in languages like:
 - C++,

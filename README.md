@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @KrystianCoder2
+- 👋 Hi, I’m @imcg_kn
 - 👀 I’m interested Programming, and game development.
 - 🌱 I’m currently learning SFML C++

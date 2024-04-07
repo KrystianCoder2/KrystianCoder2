@@ -7,5 +7,4 @@
           OpenGL + GLFW
         C:
           SDL2,
-          Basics,
-          Malloc etc,
+          Basics
